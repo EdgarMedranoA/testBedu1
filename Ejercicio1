@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T04:54:56.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.6.0" etag="f10aIXwyN4ViTIWrFB_-" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T06:40:35.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" version="20.6.0" etag="q_amlC4VbFCRRfnqDj7g" type="github">
   <diagram id="LsvWpRPilbB6V9S8iZXL" name="Página-1">
     <mxGraphModel dx="665" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
             <mxPoint x="340" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dArXQtvDn-uCg0xF0yb2-3" value="nombre_alumo=calificacion" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="227.5" y="120" width="225" height="60" as="geometry" />
+        <mxCell id="dArXQtvDn-uCg0xF0yb2-3" value="nombre_alumo=Ramon, Marcos, Samuel, Ana, Rosa" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="120" width="252.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dArXQtvDn-uCg0xF0yb2-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dArXQtvDn-uCg0xF0yb2-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
